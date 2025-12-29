@@ -25,6 +25,8 @@ The overall flow is:
 4. ArgoCD continuously syncs and enforces cluster state
 5. Security, scaling, remediation, and resilience are handled declaratively
 
+<img width="6192" height="4068" alt="devsecops diagram" src="https://github.com/user-attachments/assets/dc741d74-2377-4aa5-ab45-4cbc8766935f" />
+
 ---
 
 ## Repository Responsibilities
