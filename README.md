@@ -157,4 +157,4 @@ The design mirrors how mature DevSecOps and Platform teams operate in production
 
 ## Video Tutorial for Project Walkthrough
 
-LINK
+[![YouTube Tutorial](https://img.shields.io/badge/Watch%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/uRD-RmJpJzI)
