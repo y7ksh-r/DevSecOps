@@ -13,6 +13,19 @@ The system is intentionally designed with:
 
 ---
 
+## 🗂️ Repository Structure
+
+This project is split across **4 repositories**:
+
+| Repository | Purpose |
+|:---|:---|
+| 📘 **This Repo** | Architecture docs, diagrams, and full project overview |
+| ⚙️ [DevSecOps-Infra](https://github.com/y7ksh-r/DevSecOps-infra) | Terraform — VPC, EKS, IAM, S3 remote state |
+| 🚀 [DevSecOps-Microservices](https://github.com/y7ksh-r/DevSecOps-microservices) | App source code (Go, Node.js, Python) + CI/CD pipelines |
+| 🔁 [DevSecOps-GitOps](https://github.com/y7ksh-r/DevSecOps-GitOps) | Kubernetes desired state — ArgoCD, Kyverno, Rollouts, HPA |
+
+---
+
 ## High-Level Architecture Overview
 
 This DevSecOps system is split across **three focused repositories**, each owning a single responsibility 
